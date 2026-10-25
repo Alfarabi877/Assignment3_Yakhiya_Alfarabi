@@ -1,0 +1,9 @@
+{"states":[[3,2],[2,3],[2,3],[2,3]]}
+{"states":[]}
+{"cost":5,"edge_ids":[1,2],"components":2}
+{"cost":3,"edge_ids":[0,2,3],"components":2}
+{"component":[0,0,1,1,2],"condensation":[[0,1],[1,2]]}
+{"acyclic":true,"order":[1,0,2,3]}
+{"acyclic":false,"order":[]}
+{"acyclic":true,"distance":[0,3,-4,0,null],"parent_edge":[-1,0,2,3,-1]}
+{"acyclic":false,"distance":[],"parent_edge":[]}
